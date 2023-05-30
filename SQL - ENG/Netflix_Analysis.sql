@@ -12,9 +12,8 @@ SELECT *
 FROM dbo.Netflix_Main
 
 --PLEASE NOTE--
---The below data cleaning code may not work as expected in this SQL file as the table has already been modified
---by it. To check the functionality of the entire code, I recommend creating a new SQL file, importing the Excel file and then 
---running the code. Everything below Calculations section is working correctly. 
+--To check the functionality of the entire code, I recommend creating a new SQL file, importing the Excel file and then 
+--running the code.
 
 ---------DATA CLEANING---------
 
